@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: :writing_hand: Data Science Publications & Articles :books:
+# :page_with_curl::black_nib: Data Science Publications & Articles :books::chart_with_upwards_trend:
 
 Here I present all my publications and articles exploring the data science world.
 
@@ -10,13 +10,13 @@ Here I present all my publications and articles exploring the data science world
 
 ### Artigos em Português
 
-1. :black_nib: [**Então, você fala com robôs?**](https://medium.com/in-data-we-trust/ent%C3%A3o-voc%C3%AA-fala-com-rob%C3%B4s-4eebf03de4c6)
+1. :writing_hand: [**Então, você fala com robôs?**](https://medium.com/in-data-we-trust/ent%C3%A3o-voc%C3%AA-fala-com-rob%C3%B4s-4eebf03de4c6)
     - Neste artigo, falamos sobre o primeiro chatbot da computação, o Eliza, e como Alan Turing fez parte desta história.
 
-2. :black_nib::brazil: [Afinal, o que é Ciência de Dados?](https://medium.com/in-data-we-trust/afinal-o-que-%C3%A9-ci%C3%AAncia-de-dados-32d728a1a039)
+2. :writing_hand: [**Afinal, o que é Ciência de Dados?**](https://medium.com/in-data-we-trust/afinal-o-que-%C3%A9-ci%C3%AAncia-de-dados-32d728a1a039)
     - Por que a ciência de dados está tão em voga nos dias de hoje? Aqui falamos sobre isso.
 
-3. :black_nib::brazil: [Trapaceando com Dados e Estatística](https://medium.com/in-data-we-trust/trapaceando-com-dados-e-estat-6cffff760f4e)
+3. :writing_hand: [**Trapaceando com Dados e Estatística**](https://medium.com/in-data-we-trust/trapaceando-com-dados-e-estat-6cffff760f4e)
     - As armadilhas e mentiras que nos contam através de números e estatísticas, e nem nos damos conta...
 
 
