@@ -1,6 +1,9 @@
-# :page_with_curl::black_nib: Data Science Publications & Articles :books::chart_with_upwards_trend:
-
+<h1 align="center">
+    :page_with_curl::black_nib: Data Science Publications & Articles :books::chart_with_upwards_trend:
+</h1>
+<p align="center">
 Here I present all my publications and articles exploring the data science world.
+</p>
 
 ![](https://images.unsplash.com/photo-1456324504439-367cee3b3c32?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80)
 
