@@ -2,7 +2,7 @@
 
 
 - Here I present all my publications and articles exploring the data science world.
-- The articles are writen in English and Brazilian Portuguese.
+- The articles are writen in **English** and **Brazilian Portuguese**.
 - Your comments are very welcome! :wink:
 ---
 
