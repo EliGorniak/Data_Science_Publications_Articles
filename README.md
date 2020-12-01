@@ -4,11 +4,11 @@ Here I present all my publications and articles exploring the data science world
 
 ![](https://images.unsplash.com/photo-1456324504439-367cee3b3c32?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80)
 
-- The articles are writen in **English** and **Brazilian Portuguese**.
+- The articles are written in **English** and **Brazilian Portuguese**.
 - Your comments are very welcome! :wink:
 ---
 
-### Artigos em Português
+## Artigos em Português 
 
 1. :writing_hand: [**Então, você fala com robôs?**](https://medium.com/in-data-we-trust/ent%C3%A3o-voc%C3%AA-fala-com-rob%C3%B4s-4eebf03de4c6)
     - Neste artigo, falamos sobre o primeiro chatbot da computação, o Eliza, e como Alan Turing fez parte desta história.
@@ -27,7 +27,5 @@ Here I present all my publications and articles exploring the data science world
 ---
 
 ###### Follow me on Linkedin:
-<a href="https://www.linkedin.com/elianicegorniak" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+<a href="https://www.linkedin.com/elianicegorniak" rel="nofollow noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 
