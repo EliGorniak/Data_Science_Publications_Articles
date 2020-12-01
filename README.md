@@ -26,5 +26,5 @@ Here I present all my publications and articles exploring the data science world
 <a href="https://medium.com/in-data-we-trust"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 
 ###### Follow me on Linkedin:
-<a href="https://www.linkedin.com/elianice-gorniak" rel="nofollow noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+<a href="https://www.linkedin.com/elianice-gorniak"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 
