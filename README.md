@@ -1,8 +1,8 @@
 <h1 align="center">
-    :page_with_curl::black_nib: Data Science Publications & Articles :books::chart_with_upwards_trend:
+Publications & Articles
 </h1>
 <p align="center">
-Here I present all my publications and articles exploring the data science world.
+My publications and articles exploring the data science world.
 </p>
 
 ![](https://images.unsplash.com/photo-1456324504439-367cee3b3c32?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80)
@@ -26,7 +26,7 @@ Here I present all my publications and articles exploring the data science world
 ---
 
 ###### Follow my data science blog on Medium - **in data we trust**
-<a href="https://medium.com/in-data-we-trust"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://medium.com/in-data-we-trust"><img src="https://img.shields.io/badge/medium-%FA7343.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 
 ###### Follow me on Linkedin:
 <a href="https://www.linkedin.com/in/elianice-gorniak"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
