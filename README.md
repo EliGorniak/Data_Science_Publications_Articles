@@ -26,7 +26,7 @@ My publications and articles exploring the data science world.
 ---
 
 ###### Follow my data science blog on Medium - **in data we trust**
-<a href="https://medium.com/in-data-we-trust"><img src="https://img.shields.io/badge/medium-%FA7343.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://medium.com/in-data-we-trust"><img src="https://img.shields.io/badge/medium-FF5722?.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 
 ###### Follow me on Linkedin:
 <a href="https://www.linkedin.com/in/elianice-gorniak"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
