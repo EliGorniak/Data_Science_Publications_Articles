@@ -31,3 +31,6 @@ My publications and articles exploring the data science world.
 ###### Follow me on Linkedin:
 <a href="https://www.linkedin.com/in/elianice-gorniak"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 
+
+---
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=EliGorniak&repo=Data_Science_Publications_Articles&countColorcountColor&countColor=%237B1E7A)
